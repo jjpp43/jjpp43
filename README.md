@@ -11,6 +11,10 @@ I turn ideas into solutions that solve real world problems. Bachelor's in Comput
 | HackAI @ OSU | 🥉[Full Send](https://github.com/jjpp43/HackAI2026)  | Data-driven energy investment prioritization platform analyzing 1.3M+ smart meter readings across 270+ campus buildings. |
 | Code 4 Cause | 🥈[Equit.io](https://github.com/jjpp43/equit.io) | PDF converter for dyslexia. |
 
+| Project | Detail |
+| ------- | ------- |
+| [Datacenters.world](https://www.datacenters.world/) | A public, interactive map of every known data center on Earth — 5,351 facilities across 148 countries |
+
 ## Education
 The Ohio State University • BS in Computer Science & Engineering • May 2027 (Expected)
 
